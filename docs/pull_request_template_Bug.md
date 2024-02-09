@@ -1,0 +1,1 @@
+mi plantilla de bugs
